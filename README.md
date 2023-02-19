@@ -1,4 +1,4 @@
-# image_scraper
+# Image Scraper
 
 Microservice for scraping image URLs from Google Images based on provided keywords. Microservice connects via Python sockets.
 
